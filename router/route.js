@@ -57,7 +57,6 @@ module.exports = (app) => {
 		}
   </style>
   <title>CDN</title>
-  <meta itemprop="thumbnail" content="https://avatars1.githubusercontent.com/u/73338496?s=200&v=4"/>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta content="Stars Tracker CDN" property="og:site_name"/>
   <meta content="Stars Tracker CDN" property="og:title"/>
