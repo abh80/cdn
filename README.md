@@ -1,4 +1,5 @@
 # Cdn
+Change the `url` in `siteConfig.js`
 Run
 ```bash
 node .
